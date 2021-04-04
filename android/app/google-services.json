@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "628845618076",
+    "project_id": "phone-auth-quiz",
+    "storage_bucket": "phone-auth-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628845618076:android:eb8f5b43ebca145aa95e59",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628845618076-un4j5jo4a0226c646h7tjce2nfikunul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjWtbiS3RFmDxWUJbEL_ERVp0BOCeoDOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628845618076-un4j5jo4a0226c646h7tjce2nfikunul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628845618076:android:537ca1cd29acd0f6a95e59",
+        "android_client_info": {
+          "package_name": "com.rupesh.phoneAuthQuiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628845618076-un4j5jo4a0226c646h7tjce2nfikunul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjWtbiS3RFmDxWUJbEL_ERVp0BOCeoDOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628845618076-un4j5jo4a0226c646h7tjce2nfikunul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
